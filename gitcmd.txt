@@ -5,3 +5,6 @@ git commands
 4> git remote add origin https://github.com/ashishkumarku10/nodeJsTutorial.git
 5> git branch -M main
 6> git push -u origin main
+
+install dependency using cmd => npm i packagename
+install dev dependency using cmd => npm i packagename -D or --save-dev
