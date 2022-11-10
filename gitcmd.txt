@@ -6,5 +6,9 @@ git commands
 5> git branch -M main
 6> git push -u origin main
 
+npm init (step by step package.json)
+npm init -y (default package.json)
 install dependency using cmd => npm i packagename
+uninstall dependency using cmd => npm uninstall packagename
 install dev dependency using cmd => npm i packagename -D or --save-dev
+install globally => npm install -g pakagename
